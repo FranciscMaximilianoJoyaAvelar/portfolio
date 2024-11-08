@@ -1,4 +1,4 @@
-- # 👋 qué tal! Soy Francisco Maximiliano Joya Avelar
+- # 👋 Qué tal! Soy Francisco Maximiliano Joya Avelar
 
 ## 🛠️ Tecnologías Favoritas
 - **Lenguaje de Programación**: C  
