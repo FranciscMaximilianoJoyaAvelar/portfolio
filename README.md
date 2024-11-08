@@ -1,7 +1,7 @@
 - # 👋 Qué tal! Soy Francisco Maximiliano Joya Avelar
 
 ## 🛠️ Tecnologías Favoritas
-- Lenguaje de Programación: C  
+- **Lenguaje de Programación**: C  
   Es el lenguaje con el que he trabajado hasta ahora y donde realizo la mayoría de mis proyectos.
 
 ## 🚀 Proyectos Destacados
