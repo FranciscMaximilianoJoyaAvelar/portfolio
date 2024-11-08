@@ -2,7 +2,7 @@
 
 ## 🛠️ Tecnologías Favoritas
 - **Lenguaje de Programación**: C  
-  *Es el lenguaje con el que he trabajado hasta ahora y donde realizo la mayoría de mis proyectos.*
+  Es el lenguaje con el que he trabajado hasta ahora y donde realizo la mayoría de mis proyectos.
 
 ## 🚀 Proyectos Destacados
 * me gustaría desarrollar alternativas para mejorar las ciberseguridad y optimizar procesos en pequeñas y grandes empresas.*
